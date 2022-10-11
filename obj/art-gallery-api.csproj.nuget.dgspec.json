@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bettyyuliani/Documents/SIT331/Project/art-gallery-api/art-gallery-api.csproj": {}
+  },
+  "projects": {
+    "/Users/bettyyuliani/Documents/SIT331/Project/art-gallery-api/art-gallery-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bettyyuliani/Documents/SIT331/Project/art-gallery-api/art-gallery-api.csproj",
+        "projectName": "art-gallery-api",
+        "projectPath": "/Users/bettyyuliani/Documents/SIT331/Project/art-gallery-api/art-gallery-api.csproj",
+        "packagesPath": "/Users/bettyyuliani/.nuget/packages/",
+        "outputPath": "/Users/bettyyuliani/Documents/SIT331/Project/art-gallery-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bettyyuliani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ADO.Net.Client": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

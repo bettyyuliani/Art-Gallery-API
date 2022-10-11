@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{20509A1E-B520-49EB-A61E-82EDE78A7DAB}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/bettyyuliani/Library/Caches/VisualStudio/17.0/Symbols/DapperLib/Dapper/2a837ad7d036671ac9a75c9945bb970aa41b7de9</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bettyyuliani/Documents/SIT331/Project/art-gallery-api/Persistence/SourceLocationDataAccess.cs" relfile="Persistence/SourceLocationDataAccess.cs" line="56" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ArtTypesController.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Artefact.cs" Line="7" Column="27" />
+      <File FileName="Persistence/ArtefactDataAccess.cs" Line="168" Column="90" />
+      <File FileName="Persistence/ArtTypeDataAccess.cs" Line="25" Column="91" />
+      <File FileName="Persistence/IArtefactDataAccess.cs" Line="7" Column="30" />
+      <File FileName="Persistence/IArtistDataAccess.cs" Line="1" Column="26" />
+      <File FileName="Persistence/IArtTypeDataAccess.cs" Line="1" Column="26" />
+      <File FileName="Controllers/ArtistsController.cs" Line="28" Column="52" />
+      <File FileName="Program.cs" Line="62" Column="1" />
+      <File FileName="../../../../Library/Caches/VisualStudio/17.0/Symbols/DapperLib/Dapper/2a837ad7d036671ac9a75c9945bb970aa41b7de9/Dapper/SqlMapper.cs" Line="1077" Column="1" />
+      <File FileName="Controllers/ArtefactsController.cs" Line="97" Column="1" />
+      <File FileName="Persistence/ArtistDataAccess.cs" Line="11" Column="17" />
+      <File FileName="Artist.cs" Line="7" Column="1" />
+      <File FileName="ArtefactOnArtist.cs" Line="1" Column="1" />
+      <File FileName="ArtistOnArtefact.cs" Line="1" Column="1" />
+      <File FileName="ArtType.cs" Line="1" Column="1" />
+      <File FileName="ArtTypeOnArtefact.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ArtTypesController.cs" Line="28" Column="113" />
+      <File FileName="Persistence/SourceLocationDataAccess.cs" Line="58" Column="1" />
+      <File FileName="Persistence/ISourceLocationDataAccess.cs" Line="1" Column="1" />
+      <File FileName="Controllers/SourceLocationController.cs" Line="92" Column="78" />
+      <File FileName="Controllers/UsersController.cs" Line="127" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="art-gallery-api" expanded="True">
+            <Node name="art-gallery-api" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Persistence" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.art-gallery-api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
